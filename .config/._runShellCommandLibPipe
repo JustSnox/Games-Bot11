@@ -1,0 +1,1 @@
+prettier --write download.jpg; echo "Formatted!" > ".config/._runShellCommandLibOutPipe"
